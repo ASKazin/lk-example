@@ -1,0 +1,14 @@
+/.idea/
+/files/
+/uploads/
+/scripts/admin/
+/scripts/company/
+/scripts/order/
+/scripts/print/
+/scripts/profile/
+/scripts/test/
+/scripts/user/
+yandex_f5a605f478d8139b.html
+*.sql
+sitemap.xml
+robots.txt
